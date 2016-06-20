@@ -10,6 +10,6 @@ module.exports = {
       underscored: true
     }
   },
-  jwtSecret: "NTALK_TEST",
+  jwtSecret: "NTASK_TEST",
   jwtSession: {session: false}
 };
